@@ -1,0 +1,13 @@
+# Bỏ venv
+venv/
+.env/
+
+# Bỏ file Python cache
+__pycache__/
+*.pyc
+
+# Bỏ notebook checkpoint
+.ipynb_checkpoints/
+
+# Bỏ data
+data/
